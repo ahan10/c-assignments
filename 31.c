@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 31. Write a C program to find Maximum, Minimum and Average value from the given integer array.
 */
