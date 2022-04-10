@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 33. Write a C function to check whether strings are same or not. The function should take two string arguments to be compared.
 */
