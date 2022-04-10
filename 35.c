@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 35. Write a C program to copy content of source.txt file into destination.txt file. Create source.txt file containing your roll-no and name.
 */
