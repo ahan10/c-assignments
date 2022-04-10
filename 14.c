@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 14. Write a program to check whether a character is uppercase or lowercase alphabet.
 */
