@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 40. Write a C program to accept file names from command line arguments. 
 Create a file copy program using command line argument. (eg. mycopy mango.txt apple.txt) Here the content of mango.txt must be copied to apple.txt.
