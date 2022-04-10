@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 21. Write a program that take input of 3 subjects marks out of 150. Count the percentage. Print the Grade/Class based on conditions.
 */
