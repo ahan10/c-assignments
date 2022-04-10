@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 37. Write a C program to compare content of two given files. Display appropriate message.
 */
