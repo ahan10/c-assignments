@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 36. Write a C program to count total number of vowels in a given text file.
 */
