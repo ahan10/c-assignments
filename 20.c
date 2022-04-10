@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 20. Calculate the area of triangle given its three sides.
 */
