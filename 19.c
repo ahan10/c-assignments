@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 19. Accept a number N from the user and print the first N elements of the Fibonacci series.
 */
