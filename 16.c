@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 16. Write a program to enter a number from the user and display the sum of all the digits in the number.
 */
