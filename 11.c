@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 11. Write a program to find the sum of odd numbers and even numbers from 1 to N, N entered by the user.
 */
