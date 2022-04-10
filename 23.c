@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 23. Write a C program to print following series using looping concept (use while or for loop).
 i. 1, 2, 3, 4 ........ 100 
