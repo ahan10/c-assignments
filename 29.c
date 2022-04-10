@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 29. Write a C program to perform addition of two 3X3 matrices.
 */
