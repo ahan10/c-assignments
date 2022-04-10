@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 1. Write a C program to read and print your name and address
 */
@@ -16,8 +15,8 @@ int main()
     return 0;
 }
 /* Program Output 
-Enter name: Ahan Bhargava
+Enter name: Sample
 Enter Address: Hno. XYZ, Sector 1, Gandhinagar, Gujarat
-Name is: Ahan Bhargava
+Name is: Sample
 Address is: Hno. XYZ, Sector 1, Gandhinagar, Gujarat
 */
