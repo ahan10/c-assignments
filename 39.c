@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 39. Write a C program to accept integer values from keyboard. Transfer odd numbers to odd.txt and even numbers to even.txt. 
 Display data from both the files, also display even sum and odd sum from respective files.
