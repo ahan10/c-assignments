@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 13. Write a program to read a character from the user and check whether it is a vowel.
 */
