@@ -1,5 +1,4 @@
 /*
-Author : AU2020167 Ahan Bhargava
 Date : 07/01/2021
 Problem Definition : 15. Write a program to accept two numbers and one mathematical operator. Using given mathematical operator.
 */
